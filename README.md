@@ -79,11 +79,11 @@ Google Colab
 
 ## 🚀 Installation & Usage
 
-```
+```bash
 
 ## Clone the Repository
-git clone https://github.com/your-username/road-accident-analysis-ghana.git
-cd road-accident-analysis-ghana ```
+git clone https://github.com/TechDiva001/ghana-road-accident-stats.git
+cd road-accident-analysis-ghana 
 
 ## Install Dependencies
 pip install -r requirements.txt
